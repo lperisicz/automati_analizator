@@ -1,0 +1,11 @@
+{
+  "name": "automati_lv_analizator",
+  "version": "1.0.0",
+  "description": "automati analizator\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Dleksicki analizator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
