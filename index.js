@@ -1,2 +1,4 @@
+const asd = require('./FileContentReader')
 const test = 'Neki test';
-console.log(test);
+
+console.log(asd.charArray());
